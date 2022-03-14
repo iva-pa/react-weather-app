@@ -1,0 +1,27 @@
+.Search form {
+  padding: 10px 0px;
+}
+
+.form-control {
+  border-color: #5c5470;
+}
+.btn-primary {
+  color: #352f44;
+  background-color: white;
+  border-color: #5c5470;
+}
+.btn-primary:hover {
+  color: #352f44;
+  font-weight: 600;
+  background-color: #dbd8e3;
+  opacity: 90%;
+  border-color: #352f44;
+}
+.fa-search-location {
+  font-size: 20px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}

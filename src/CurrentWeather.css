@@ -1,0 +1,22 @@
+.detail-forecast {
+  padding: 10px 20px;
+}
+.temperature {
+  text-decoration: none;
+  color: white;
+}
+#main-icon {
+  width: 78px;
+  position: relative;
+  top: 18px;
+}
+#selected-city {
+  text-transform: capitalize;
+}
+#forecast-description::first-letter {
+  text-transform: capitalize;
+}
+#forecast-description {
+  font-weight: 600;
+  font-size: 18px;
+}
