@@ -8,7 +8,7 @@ export default function Footer() {
         This project was coded by Iva Papcunova and is{" "}
       </span>
       <a
-        href="https://github.com/iva-pa/weather-app"
+        href="https://github.com/iva-pa/react-weather-app"
         target="_blank"
         rel="noreferrer"
         id="github-link"
